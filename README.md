@@ -15,15 +15,3 @@
 - 📫 How to reach me **cemalikayahan@gmail.com**
 
 - ⚡ Fun fact **I'm blockchain!**
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cemxbt&show_icons=true&locale=en&layout=compact" alt="cemxbt" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cemxbt&show_icons=true&locale=en" alt="cemxbt" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cemxbt&" alt="cemxbt" /></p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cemxbt/cemxbt/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cemxbt/cemxbt/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cemxbt/cemxbt/output/github-contribution-grid-snake.svg">
-</picture>
