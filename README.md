@@ -76,18 +76,11 @@ isolation.</sub>
 ## Tech stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cnodejs%2Cnestjs%2Cprisma%2Cpostgres%2Cnextjs%2Creact%2Csupabase%2Cdocker%2Cgithubactions&theme=dark">
-  <img alt="TypeScript, Node.js, NestJS, Prisma, PostgreSQL, Next.js, React, Supabase, Docker, GitHub Actions" src="https://skillicons.dev/icons?i=ts%2Cnodejs%2Cnestjs%2Cprisma%2Cpostgres%2Cnextjs%2Creact%2Csupabase%2Cdocker%2Cgithubactions&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cnodejs%2Cnestjs%2Cprisma%2Cpostgres%2Cnextjs%2Creact%2Cdocker%2Cgithubactions&theme=dark">
+  <img alt="TypeScript, Node.js, NestJS, Prisma, PostgreSQL, Next.js, React, Docker, GitHub Actions" src="https://skillicons.dev/icons?i=ts%2Cnodejs%2Cnestjs%2Cprisma%2Cpostgres%2Cnextjs%2Creact%2Cdocker%2Cgithubactions&theme=light">
 </picture>
 
 <sub>Also: React Native · Expo · Turborepo · pnpm · Zod · REST APIs · JWT / RBAC · Railway · Render · Cloudflare Tunnel · Cursor · Claude · Codex</sub>
-
-## What I focus on
-
-- **Backend engineering** — APIs, business rules, authentication and data-heavy services
-- **System architecture** — modular services, shared engines and reliable messaging
-- **Full-stack products** — admin dashboards and mobile apps on top of the backend
-- **AI & fintech** — LLM integrations, financial data and trading-oriented products
 
 > I turn complex product needs into reliable, maintainable systems — clear architecture,
 > well-structured data and pragmatic decisions over clever ones.
