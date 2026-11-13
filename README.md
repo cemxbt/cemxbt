@@ -11,19 +11,28 @@
   <img alt="Location" src="https://img.shields.io/badge/based%20in-Istanbul-555?style=flat-square">
 </p>
 
-Hey, I'm Cem 👋 — a software engineer and trader based in **Istanbul**.
+Hey, I'm Cem 👋 — a backend engineer and trader based in **Istanbul**.
 
-I spend most of my time where code meets markets. Right now I'm building
-[**bottomUP**](https://bottomup.app), working on AI, fintech and Web3 products. Being a trader
-as well, I'm drawn to tools for markets — [**profitcode**](https://github.com/cemxbt/profitcode),
-a platform that teaches technical analysis, is one of them.
+I work where software meets financial markets. At [**bottomUP**](https://bottomup.app) I build
+products for crypto and financial markets, mostly on the backend: market data, analytics and the
+infrastructure behind trading features. As a trader myself, I care about data you can trust and
+systems that keep working when markets move fast.
 
-The part of the job I enjoy most is the backend: designing APIs and data models, and building
-systems that keep working when something goes wrong. I like shipping the whole thing too — from
-a viral World Cup draft game to a website for a personal trainer, and the open-source projects
-below.
+> **P.S.** Run `npx cemxbt` to get my card in your terminal.
 
-## Featured projects
+## What I work on at bottomUP
+
+- **Financial & crypto market data** — collecting, validating and serving the data that analytics
+  and trading features depend on
+- **Trading infrastructure** — a shared trade engine reused across products instead of separate
+  logic for every feature
+- **Backend architecture** — modular services that let several products grow on one platform
+- **AI-assisted engineering** — building with Cursor, Claude and Codex as everyday tools
+
+<sub>That work is private. The open-source projects below show the same engineering patterns in
+isolation.</sub>
+
+## Open-source projects
 
 <table>
   <tr>
@@ -55,17 +64,11 @@ below.
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3><a href="https://github.com/cemxbt/fintech-data-pipeline">fintech-data-pipeline</a></h3>
       <p>Market-data ingestion with validation, data-quality reports and technical indicators, loaded idempotently into PostgreSQL.</p>
       <p><a href="https://github.com/cemxbt/fintech-data-pipeline/actions"><img alt="CI" src="https://github.com/cemxbt/fintech-data-pipeline/actions/workflows/ci.yml/badge.svg"></a></p>
       <sub>PostgreSQL · TypeScript · RSI · MACD · VWAP</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/cemxbt/profitcode">profitcode</a></h3>
-      <p>An educational platform that teaches technical analysis for financial markets, with courses, reviews and an admin area.</p>
-      <p><a href="https://profitcode.vercel.app"><img alt="Live site" src="https://img.shields.io/badge/live-profitcode.vercel.app-555?style=flat-square"></a></p>
-      <sub>Next.js · Supabase</sub>
     </td>
   </tr>
 </table>
