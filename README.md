@@ -5,6 +5,8 @@
 
 <p align="center">
   <a href="https://bottomup.app"><img alt="Building bottomUP" src="https://img.shields.io/badge/building-bottomUP-0969da?style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/cemalikayahan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-cemalikayahan-0a66c2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/cemxbt"><img alt="X" src="https://img.shields.io/badge/X-@cemxbt-000?style=flat-square&logo=x&logoColor=white"></a>
   <a href="mailto:cemalikayahan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-cemalikayahan%40gmail.com-555?style=flat-square&logo=gmail&logoColor=white"></a>
   <img alt="Location" src="https://img.shields.io/badge/based%20in-Istanbul-555?style=flat-square">
 </p>
