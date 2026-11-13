@@ -63,8 +63,8 @@ architecture, and the web and mobile apps on top. Most of my work sits where **A
 ## Tech stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,nodejs,nestjs,prisma,postgres,nextjs,react,supabase,docker,githubactions&theme=dark">
-  <img alt="TypeScript, Node.js, NestJS, Prisma, PostgreSQL, Next.js, React, Supabase, Docker, GitHub Actions" src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,prisma,postgres,nextjs,react,supabase,docker,githubactions&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cnodejs%2Cnestjs%2Cprisma%2Cpostgres%2Cnextjs%2Creact%2Csupabase%2Cdocker%2Cgithubactions&theme=dark">
+  <img alt="TypeScript, Node.js, NestJS, Prisma, PostgreSQL, Next.js, React, Supabase, Docker, GitHub Actions" src="https://skillicons.dev/icons?i=ts%2Cnodejs%2Cnestjs%2Cprisma%2Cpostgres%2Cnextjs%2Creact%2Csupabase%2Cdocker%2Cgithubactions&theme=light">
 </picture>
 
 <sub>Also: React Native · Expo · Turborepo · pnpm · Zod · REST APIs · JWT / RBAC · Railway · Render · Cloudflare Tunnel · Cursor · Claude · Codex</sub>
