@@ -9,9 +9,17 @@
   <img alt="Location" src="https://img.shields.io/badge/based%20in-Istanbul-555?style=flat-square">
 </p>
 
-I build backend systems and the products around them — APIs, data models, service
-architecture, and the web and mobile apps on top. Most of my work sits where **AI**,
-**fintech** and **Web3** meet. Right now I'm building [**bottomUP**](https://bottomup.app).
+Hey, I'm Cem 👋 — a software engineer and trader based in **Istanbul**.
+
+I spend most of my time where code meets markets. Right now I'm building
+[**bottomUP**](https://bottomup.app), working on AI, fintech and Web3 products. Being a trader
+as well, I'm drawn to tools for markets — [**profitcode**](https://github.com/cemxbt/profitcode),
+a platform that teaches technical analysis, is one of them.
+
+The part of the job I enjoy most is the backend: designing APIs and data models, and building
+systems that keep working when something goes wrong. I like shipping the whole thing too — from
+a viral World Cup draft game to a website for a personal trainer, and the open-source projects
+below.
 
 ## Featured projects
 
