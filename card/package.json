@@ -1,0 +1,28 @@
+{
+  "name": "cemxbt",
+  "version": "1.0.0",
+  "description": "Cem Ali Kayahan's business card for the terminal. Run `npx cemxbt`.",
+  "type": "module",
+  "bin": {
+    "cemxbt": "bin/card.js"
+  },
+  "files": [
+    "bin"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "card",
+    "npx",
+    "business-card",
+    "cemxbt"
+  ],
+  "author": "Cem Ali Kayahan <cemalikayahan@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cemxbt/cemxbt.git"
+  },
+  "homepage": "https://github.com/cemxbt"
+}
