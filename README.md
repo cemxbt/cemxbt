@@ -41,11 +41,14 @@ Currently building [**bottomUP**](https://bottomup.app).
 
 ### Selected work
 
-| Project | Description | Stack |
+| Project | What it demonstrates | Stack |
 |---|---|---|
+| [**nestjs-auth-starter**](https://github.com/cemxbt/nestjs-auth-starter) | JWT auth with rotating refresh sessions, token-reuse detection and RBAC | NestJS · Prisma · PostgreSQL |
+| [**fullstack-monorepo**](https://github.com/cemxbt/fullstack-monorepo) | API, web and mobile apps sharing one typed contract package | Turborepo · NestJS · Next.js · Expo |
+| [**ai-service-gateway**](https://github.com/cemxbt/ai-service-gateway) | LLM gateway with model routing, fallbacks, retries, rate limiting and cost tracking | NestJS · OpenAI · Anthropic |
+| [**event-driven-engine**](https://github.com/cemxbt/event-driven-engine) | Transactional outbox with concurrent workers, idempotent consumers and dead-lettering | PostgreSQL · TypeScript |
+| [**fintech-data-pipeline**](https://github.com/cemxbt/fintech-data-pipeline) | Market-data ingestion, data-quality checks and technical indicators | PostgreSQL · TypeScript |
 | [**profitcode**](https://github.com/cemxbt/profitcode) | Educational platform teaching technical analysis for financial markets | Next.js · Supabase |
-| [**sport**](https://github.com/cemxbt/sport) | Personal trainer website with admin panel, fitness calculators and SEO management | Node.js · Express |
-| [**7de7**](https://github.com/cemxbt/7de7) | Viral World Cup squad draft game | TypeScript |
 
 ### Focus areas
 
